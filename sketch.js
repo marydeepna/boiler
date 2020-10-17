@@ -10,7 +10,7 @@ function setup(){
       fr.velocityY =-5;
 }
 function draw(){
-background("yellow");
+background("red");
 
 
 if(mr.x-fr.x < mr.width/2  +  fr.width/2 && fr.x-mr.x < mr.width/2  +  fr.width/2){
